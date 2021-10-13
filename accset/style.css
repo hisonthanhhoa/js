@@ -1,0 +1,40 @@
+* {
+    width: auto;
+    height: auto;
+    box-sizing: border-box;
+}
+
+.container {}
+
+.content {}
+
+.left {
+    width: 300px;
+    height: auto;
+}
+
+.head-form {
+    background-color: rgb(3, 175, 175);
+    height: 80px;
+    border-radius: 1px;
+}
+
+.head-table {
+    background-color: rgb(3, 175, 175);
+    border-radius: 1px;
+    height: 80px;
+}
+
+h5 {
+    color: white;
+    margin-left: 10px;
+}
+
+span {
+    color: red;
+}
+
+.error {
+    font-size: 12px;
+    color: red;
+}
